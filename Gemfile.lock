@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/jterry63/terry_view_tool
+  revision: bb569456b42e4deafc300507efcdb9945b72bcf9
+  specs:
+    terry_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -226,6 +232,7 @@ DEPENDENCIES
   sass-rails (>= 6)
   spring
   spring-watcher-listen (~> 2.0.0)
+  terry_view_tool!
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
