@@ -52,3 +52,6 @@ gem 'jquery-rails'
 gem 'terry_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 2.0', '>= 2.0.1'
 
+group :development, :test do
+  gem 'rspec-rails', '~> 4.0.1'
+end
